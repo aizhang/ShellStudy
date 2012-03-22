@@ -1,0 +1,3 @@
+echo "hello,please enter sth:\n"
+read a 
+echo $a
